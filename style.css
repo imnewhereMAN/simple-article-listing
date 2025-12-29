@@ -74,17 +74,9 @@ h3{
     }
 }
 
-@media screen and (min-width: 1536px){
+@media screen and (min-width: 1300px){
     img{
         position: relative;
-        left: 300px;
+        left: 280px;
     }
-    #thing{
-        position: relative;
-        left: 400px;
-    }
-}
-#thing{
-    position: relative;
-    left: 250px;
 }
